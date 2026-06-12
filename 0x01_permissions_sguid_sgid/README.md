@@ -1,1 +1,1 @@
-0x01. Linux Security - Permissions, SUID & SGID
+0x01. Linux Security
